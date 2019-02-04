@@ -21,3 +21,4 @@ git commit -m "Added 000-GitHub-Commands.txt"
 
 Send to Repository:  git push
 
+Get from Repository:  git pull
