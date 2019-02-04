@@ -6,4 +6,17 @@ https://github.com/joshnh/Git-Commands
 
 cd
 dir
-git clone https://github.com/jpmadmin/hello-world.git
+
+download repository:  git clone https://github.com/jpmadmin/hello-world.git
+
+git status
+
+Add a file:  git add *.*    or git add -A
+
+git config --global user.email "email@aol.com"
+git config --global user.name  "Pat McIntyre"
+
+git commit -m "Added 000-GitHub-Commands.txt"
+
+Send to Repository:  git push
+
