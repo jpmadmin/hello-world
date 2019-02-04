@@ -22,3 +22,22 @@ git commit -m "Added 000-GitHub-Commands.txt"
 Send to Repository:  git push
 
 Get from Repository:  git pull
+
+Getting Started with Angular:
+	Install:  https://nodejs.org/en/
+	node -v
+	Version:  10.15.1
+	npm -v
+	Version:  6.4.1
+	npm install -g typescript
+	npm install -g typings
+	npm install -g @angular/cli
+	Editor:  https://code.visualstudio.com/
+		E:\Program Files\Microsoft VS Code
+	E:\My Web Sites\00000000000 - Angular>
+	ng new my-app    (Press Enter for Defaults)
+	cd my-app
+	ng serve --open
+	http://localhost:4200
+	https://stackblitz.com - Samples
+	
