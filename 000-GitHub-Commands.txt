@@ -1,0 +1,9 @@
+Installed Git 64-Bit Version 2.20.1 on 2019-02
+
+E:\Program Files\Git
+
+https://github.com/joshnh/Git-Commands
+
+cd
+dir
+git clone https://github.com/jpmadmin/hello-world.git
