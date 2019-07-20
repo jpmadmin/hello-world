@@ -14,7 +14,7 @@ git status
 
 Add a file:  git add *.*    or git add -A
 
-git config --global user.email "email@aol.com"
+git config --global user.email "github@clubltd.com"
 git config --global user.name  "Pat McIntyre"
 
 git commit -m "Added 000-GitHub-Commands.txt"
